@@ -32,9 +32,41 @@ public class ProductLogic
     {
         return _products;
     }
+    
+    public List<CatFood> GetAllCatFoods()
+    {
+        return new List<CatFood>(_catFoods.Values);
+    }
+
+    public List<DogLeash> GetAllDogLeashes()
+    {
+        return new List<DogLeash>(_dogLeashes.Values);
+    }
 
     public DogLeash GetDogLeashByName(string name)
     {
-        return _dogLeashes.ContainsKey(name) ? _dogLeashes[name] : null;
+        try
+        {
+            return _dogLeashes[name];
+        }
+        catch (Exception ex)
+        {
+            // Log or handle the exception as needed
+            return null; // Return null if the dog leash isn't found
+        }
     }
+    
+    public CatFood GetCatFoodByName(string name)
+    {
+        try
+        {
+            return _catFoods[name];
+        }
+        catch (KeyNotFoundException)
+        {
+            // Handle the case where the cat food isn't found
+            return null;
+        }
+    }
+
 }

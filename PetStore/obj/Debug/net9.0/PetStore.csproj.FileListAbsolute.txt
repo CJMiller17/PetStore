@@ -1,0 +1,15 @@
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/bin/Debug/net9.0/PetStore
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/bin/Debug/net9.0/PetStore.deps.json
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/bin/Debug/net9.0/PetStore.runtimeconfig.json
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/bin/Debug/net9.0/PetStore.dll
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/bin/Debug/net9.0/PetStore.pdb
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.AssemblyInfoInputs.cache
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.AssemblyInfo.cs
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.csproj.CoreCompileInputs.cache
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.sourcelink.json
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.dll
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/refint/PetStore.dll
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.pdb
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/PetStore.genruntimeconfig.cache
+/Users/CodyMiller/Coding/CodeYou/PetStore/PetStore/obj/Debug/net9.0/ref/PetStore.dll
