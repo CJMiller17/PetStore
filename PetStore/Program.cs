@@ -39,13 +39,13 @@ namespace PetStoreApp
                         Console.WriteLine("Enter CatFood description: ");
                         string description = Console.ReadLine();
                         
-                        Console.WriteLine("Enter weight in pounds: ");
-                        double weightPounds = double.Parse(Console.ReadLine());
+                        // Console.WriteLine("Enter weight in pounds: ");
+                        // double weightPounds = double.Parse(Console.ReadLine());
                         
                         Console.WriteLine("Is it for Kittens? (true/false): ");
                         bool kittenFood = bool.Parse(Console.ReadLine());
                         
-                        CatFood catFood = new CatFood(name, price, quantity, description, weightPounds, kittenFood);
+                        CatFood catFood = new CatFood(name, price, quantity, description, kittenFood);
                         productLogic.AddProduct(catFood);
                         Console.WriteLine("CatFood product added successfully!");
                     }

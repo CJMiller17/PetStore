@@ -49,7 +49,7 @@ public class ProductLogic
         {
             return _dogLeashes[name];
         }
-        catch (Exception ex)
+        catch (KeyNotFoundException)
         {
             // Log or handle the exception as needed
             return null; // Return null if the dog leash isn't found
